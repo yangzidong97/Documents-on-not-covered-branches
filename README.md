@@ -6,6 +6,6 @@ A group contains id name, function name, line number, a description explains the
 
 
 In case of the conversion problem between google doc and microsoft word, the original documents are available in the following link:
-https://bit.ly/not-covered_branches_drive
+https://drive.google.com/drive/folders/1crlHLC3cFu9XxMhLamwA70RJvjdm4LTS?usp=sharing
 
 Edited at 2021.12.25
